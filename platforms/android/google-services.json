@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "715794350934",
+    "firebase_url": "https://travigate-3c3ba.firebaseio.com",
+    "project_id": "travigate-3c3ba",
+    "storage_bucket": "travigate-3c3ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715794350934:android:86e30ac390368bec",
+        "android_client_info": {
+          "package_name": "com.viken.travigate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715794350934-l740d4p2qvmq82q80dv5cb9e7tvv6i4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbK2fr7Bn7Z5L42vNP2qxRgTU_gL2Uc1A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
